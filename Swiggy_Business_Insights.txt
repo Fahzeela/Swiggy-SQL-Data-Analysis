@@ -1,0 +1,77 @@
+Swiggy Restaurant Analysis - Business Insights
+
+## Insight 1
+
+Swiggy operates across multiple cities, showing a wide market presence.
+
+## Insight 2
+
+A large number of restaurants are registered on the platform, providing customers with many food choices.
+
+## Insight 3
+
+The overall average food price gives an idea of customer spending patterns.
+
+## Insight 4
+
+Restaurant prices vary significantly, indicating the presence of budget, mid-range, and premium restaurants.
+
+## Insight 5
+
+The highest-priced restaurants mainly target premium customers.
+
+## Insight 6
+
+Some cities have a much higher number of restaurants than others.
+
+## Insight 7
+
+The top 5 cities contain the highest concentration of restaurants on Swiggy.
+
+## Insight 8
+
+Certain cities have higher average customer ratings, reflecting better customer satisfaction.
+
+## Insight 9
+
+Restaurant ratings differ across cities and locations.
+
+## Insight 10
+
+The top-rated restaurants in each city can be identified using ranking analysis.
+
+## Insight 11
+
+Restaurants with high ratings and more than 1000 reviews are highly trusted by customers.
+
+## Insight 12
+
+Premium-priced restaurants vary from city to city.
+
+## Insight 13
+
+Popularity Score (Average Rating × Total Ratings) helps identify the most popular restaurants.
+
+## Insight 14
+
+Some restaurants have very high ratings but very few reviews, making their ratings less reliable.
+
+## Insight 15
+
+Some restaurants have above-average ratings but low review counts, indicating hidden potential.
+
+## Insight 16
+
+Restaurants were categorized into Budget, Mid-Range, and Premium price segments for comparison.
+
+## Insight 17
+
+Certain cities and areas generate a larger share of customer reviews and engagement.
+
+## Insight 18
+
+The top 20% of restaurants were identified based on popularity and customer reviews.
+
+## Conclusion
+
+This analysis helps understand restaurant distribution, pricing trends, customer ratings, popularity, and city-wise performance on Swiggy using SQL Server.
